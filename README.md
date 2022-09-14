@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @wanzxploit
 - 👀 I’m interested in pemograman
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on my team
 - 📫 Chat: 0881037302039 on WhatsApp
 
 <!---
