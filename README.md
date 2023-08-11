@@ -2,7 +2,7 @@
 <div align="center">
     <h1>Welcome to Wanz Xploit's GitHub Profile</h1>
     <p>Passionate about cybersecurity, programming, and exploration.</p>
-    <img src="https://github.com/wanzxploit/wanzxploit/raw/main/assets/banner.png" alt="Banner Wanz Xploit">
+    <img src="[https://github.com/wanzxploit/wanzxploit/raw/main/assets/banner.png](https://raw.githubusercontent.com/wanzxploit/wanzxploit/main/banner.png)" alt="Banner Wanz Xploit">
 </div>
 
 <!-- About Me -->
