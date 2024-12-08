@@ -1,5 +1,4 @@
 <!-- README.md for Wanz Xploit -->
-<img src="https://raw.githubusercontent.com/wanzxploit/wanzxploit/refs/heads/main/aa925f5e-1292-46b1-8054-9f66e287e26a.webp" alt="Gambar">
 <h2 align="center">👋 Hi, I'm <i>Wanz Xploit</i>!</h2>
 <p align="center">
     Passionate about technology, coding, and creating innovative solutions. Specializing in GNU/Linux tools, scripting, and cybersecurity.
