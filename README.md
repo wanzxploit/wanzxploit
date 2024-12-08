@@ -1,30 +1,117 @@
-<!-- Header -->
-<div align="center">
-    <h1>Welcome to Wanz Xploit's GitHub Profile</h1>
-    <p>Passionate about cybersecurity, programming, and exploration.</p>
-    <img src="https://raw.githubusercontent.com/wanzxploit/wanzxploit/main/banner.png" alt="Banner Wanz Xploit">
-</div>
+<!-- README.md for Wanz Xploit -->
 
-<!-- About Me -->
-## About Me
-Hello, I'm Wanz Xploit—a cybersecurity enthusiast, developer, and explorer. I enjoy delving into the world of hacking, programming, and all things technology. My GitHub profile is a collection of projects, scripts, and ideas that reflect my journey in the realm of cybersecurity and beyond.
+<h2 align="center">👋 Hi, I'm <i>Wanz Xploit</i>!</h2>
+<p align="center">
+    Passionate about technology, coding, and creating innovative solutions. Specializing in GNU/Linux tools, scripting, and cybersecurity.
+</p>
 
-### Connect with Me on Social Media:
+<!-- Badges -->
+<p align="center">
+    <a href="https://github.com/wanzxploit?tab=followers"><img src="https://img.shields.io/github/followers/wanzxploit?style=social&label=Follow" alt="GitHub Followers"></a>
+    <a href="https://github.com/wanzxploit"><img src="https://img.shields.io/github/stars/wanzxploit?style=social" alt="GitHub Stars"></a>
+    <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwanzxploit&title=Profile%20Views&count_bg=%2379C83D&icon=&icon_color=%23E7E7E7&title_bg=%23555555" alt="Profile Views"></a>
+</p>
 
-- [Instagram](https://www.instagram.com/wanz_xploit/)
-- [Facebook](https://www.facebook.com/wanzxploit/)
-- [YouTube](https://www.youtube.com/c/WanzXploit)
-- [GitHub](https://github.com/wanzxploit)
+---
 
-<!-- Help and Collaboration -->
-## Help and Collaboration
-I'm excited to collaborate and share knowledge. If you're interested in contributing to my projects or have any questions, feel free to reach out to me through social media or [GitHub](https://github.com/wanzxploit). Let's journey together in learning and growth.
+<pre>
+sh-5.1$ /bin/bash -i
+~# ls
+<a href="#about">About Me</a>  <a href="#projects">Projects</a>  <a href="#languages">Languages</a>  <a href="#system-info">System Info</a>
+</pre>
 
-<!-- Profile Statistics -->
-## Profile Statistics
-![Wanz Xploit's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanzxploit&show_icons=true&theme=dark)
+---
 
-<!-- Footer -->
-<div align="center">
-    <p>Thank you for visiting my profile!</p>
-</div>
+<h3 id="about">📄 About Me</h3>
+<p>
+    - 👨‍💻 Developer & GNU/Linux enthusiast<br>
+    - 📍 Based in Bali, Indonesia<br>
+    - 🎮 Gamer at heart: PS2 classics, MLBB, COC<br>
+    - 🧑‍🎓 Aspiring to master the art of coding and cybersecurity<br>
+    - 💡 Fun Fact: I believe in "Simple tools, massive impact."
+</p>
+
+---
+
+<h3 id="projects">💻 Projects</h3>
+<table border="1">
+    <thead>
+        <tr>
+            <th>Repository</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://github.com/codeforkerapp">CodeForker</a></td>
+            <td>CodeForker is a multi-functional platform that includes terminal tools, web-based games, and web-based tools such as SEO, designed to facilitate various user needs.</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/wanzxploit/IP-LOC">IP-LOC</a></td>
+            <td>Simple tool to track location information based on IP address.</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/wanzxploit/MATA">MATA</a></td>
+            <td>Advanced website visitor increasing tools.</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/wanzxploit/Tools-deface">T-DEF</a></td>
+            <td>Website hacking tools using Webdav cURL server.</td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
+<h3 id="languages">🌐 Languages & Tools</h3>
+<pre>
+class Languages:
+    def __init__(self):
+        self.languages = ["Python 🐍", "JavaScript ⚡", "Bash 🖥️", "HTML/CSS 🌐"]
+        self.learning = ["php", "lua"]
+    
+    def current_focus(self):
+        return "Improving AI projects and creating automation tools."
+</pre>
+
+<a href="#"><img align="right" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanzxploit&layout=compact&theme=radical&hide_border=true" alt="Top Languages"></a>
+
+---
+
+<h3 id="system-info">🖥️ System Info</h3>
+<table border="1">
+    <thead>
+        <tr>
+            <th>Category</th>
+            <th>Apps/OS</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Coding</td>
+            <td>Acode, Quick Edit</td>
+            <td>Lightweight code editors for Android</td>
+        </tr>
+        <tr>
+            <td>Terminal</td>
+            <td>Termux, Linux Userland</td>
+            <td>Kali Linux & Ubuntu</td>
+        </tr>
+        <tr>
+            <td>Mobile</td>
+            <td>Itel P55 NFC</td>
+            <td>Chipset: Unisoc T606, Android 13</td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
+<h3 align="center">📫 Let's Connect!</h3>
+<p align="center">
+    <a href="https://t.me/wanzxploit" target="_blank"><img src="https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+    <a href="https://instagram.com/wanz_xploit" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+    <a href="https://github.com/wanzxploit.gpg" target="_blank"><img src="https://img.shields.io/badge/GPG%20Key-%233f4145?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white" alt="GPG Key"></a>
+    <a href="https://wanzxploit.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-%230A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+</p>
