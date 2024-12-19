@@ -1,6 +1,6 @@
 <!-- README.md for Wanz Xploit -->
 <p align="center">
-  <img src="https://your-banner-image-url.com/banner.png" alt="Wanz Xploit Banner">
+  <img src="banner.png" alt="Wanz Xploit Banner">
 </p>
 
 <h2 align="center">👋 Hi, I'm <i>Wanz Xploit</i>!</h2>
