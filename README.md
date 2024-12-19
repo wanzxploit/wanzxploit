@@ -1,4 +1,8 @@
 <!-- README.md for Wanz Xploit -->
+<p align="center">
+  <img src="https://your-banner-image-url.com/banner.png" alt="Wanz Xploit Banner">
+</p>
+
 <h2 align="center">👋 Hi, I'm <i>Wanz Xploit</i>!</h2>
 <p align="center">
     Passionate about technology, coding, and creating innovative solutions. Specializing in GNU/Linux tools, scripting, and cybersecurity.
@@ -8,7 +12,7 @@
 <p align="center">
     <a href="https://github.com/wanzxploit?tab=followers"><img src="https://img.shields.io/github/followers/wanzxploit?style=social&label=Follow" alt="GitHub Followers"></a>
     <a href="https://github.com/wanzxploit"><img src="https://img.shields.io/github/stars/wanzxploit?style=social" alt="GitHub Stars"></a>
-    <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwanzxploit&title=Profile%20Views&count_bg=%2379C83D&icon=&icon_color=%23E7E7E7&title_bg=%23555555" alt="Profile Views"></a>
+    <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwanzxploit&title=Profile%20Views&count_bg=%2379C83D&icon=&icon_color=%23E7E7E7&title_bg=%23E7E7E7" alt="Profile Views"></a>
 </p>
 
 ---
@@ -33,7 +37,7 @@ sh-5.1$ /bin/bash -i
 ---
 
 <h3 id="projects">💻 Projects</h3>
-<table border="1">
+<table>
     <thead>
         <tr>
             <th>Repository</th>
@@ -78,7 +82,7 @@ class Languages:
 ---
 
 <h3 id="system-info">🖥️ System Info</h3>
-<table border="1">
+<table>
     <thead>
         <tr>
             <th>Category</th>
