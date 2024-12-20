@@ -1,8 +1,4 @@
 <!-- README.md for Wanz Xploit -->
-<p align="center">
-  <img src="banner.png" alt="Wanz Xploit Banner">
-</p>
-
 <h2 align="center">👋 Hi, I'm <i>Wanz Xploit</i>!</h2>
 <p align="center">
     Passionate about technology, coding, and creating innovative solutions. Specializing in GNU/Linux tools, scripting, and cybersecurity.
@@ -67,15 +63,6 @@ sh-5.1$ /bin/bash -i
 ---
 
 <h3 id="languages">🌐 Languages & Tools</h3>
-<pre>
-class Languages:
-    def __init__(self):
-        self.languages = ["Python 🐍", "JavaScript ⚡", "Bash 🖥️", "HTML/CSS 🌐"]
-        self.learning = ["php", "lua"]
-    
-    def current_focus(self):
-        return "Improving AI projects and creating automation tools."
-</pre>
 
 <a href="#"><img align="right" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanzxploit&layout=compact&theme=radical&hide_border=true" alt="Top Languages"></a>
 
