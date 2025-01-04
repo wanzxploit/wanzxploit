@@ -90,7 +90,8 @@ System:
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=wanzxploit&color=brightgreen)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwanzxploit&title=Visitors&edge_flat=false)
+
 [![GitHub Followers](https://img.shields.io/github/followers/wanzxploit?style=social)](https://github.com/wanzxploit?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/wanzxploit?style=social)](https://github.com/wanzxploit)
 
