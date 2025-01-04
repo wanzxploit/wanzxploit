@@ -42,6 +42,7 @@ class WanzXploit:
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
@@ -49,7 +50,7 @@ class WanzXploit:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Acode](https://img.shields.io/badge/Acode-4F46E5?style=for-the-badge&logo=Acode&logoColor=white)
 
 </div>
 
@@ -81,7 +82,7 @@ System:
   
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wanzxploit)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wanz_xploit)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wanzxploit.github.io/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wanzxploit.my.id/)
 [![GPG Key](https://img.shields.io/badge/GPG_Key-333333?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white)](https://github.com/wanzxploit.gpg)
 
 </div>
@@ -94,10 +95,7 @@ System:
 [![GitHub Followers](https://img.shields.io/github/followers/wanzxploit?style=social)](https://github.com/wanzxploit?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/wanzxploit?style=social)](https://github.com/wanzxploit)
 
-**💝 Support My Work**
-  
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/wanzxploit)
-
+**💝 Support me with follow**
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
