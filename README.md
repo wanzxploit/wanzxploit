@@ -27,12 +27,12 @@ class WanzXploit:
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|------------|------------|
-| [CodeForker](https://github.com/codeforkerapp) | Multi-functional platform with terminal tools, web games & SEO tools | `Python` `JavaScript` `PHP` |
-| [IP-LOC](https://github.com/wanzxploit/IP-LOC) | Advanced IP geolocation tracking system | `Python` `API Integration` |
-| [MATA](https://github.com/wanzxploit/MATA) | Website traffic analysis & enhancement toolkit | `PHP` `JavaScript` |
-| [T-DEF](https://github.com/wanzxploit/Tools-deface) | Advanced web penetration testing framework | `Python` `cURL` |
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=DoSapp&theme=radical)](https://github.com/wanzxploit/DoS)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=IP-LOC&theme=radical)](https://github.com/wanzxploit/IP-LOC)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=MATA&theme=radical)](https://github.com/wanzxploit/MATA)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=Tools-deface&theme=radical)](https://github.com/wanzxploit/Tools-deface)
+
+➡️ [View All Projects](https://github.com/wanzxploit?tab=repositories)
 
 </div>
 
