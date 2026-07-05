@@ -1,101 +1,120 @@
 <div align="center">
-  
-  #### 👋 Welcome to Github Wanz Xploit
-  
-  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Wanz%20Xploit&fontSize=80&fontAlign=60&animation=fadeIn)
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EF7A1&center=true&vCenter=true&random=false&width=500&lines=Security+Researcher;Linux+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Prompt+Engineer)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0f0f,100:2EF7A1&height=180&section=header&text=WANZ%20XPLOIT&fontColor=2EF7A1&fontSize=60&fontAlignY=40&animation=twinkling&desc=root@wanzxploit:~%23&descAlign=50&descAlignY=65&descSize=18" width="100%"/>
+
 </div>
 
-## 🧑‍💻 About Me
+<div align="center">
 
-```python
-class WanzXploit:
-    def __init__(self):
-        self.name = "Wanz Xploit"
-        self.location = "Bali, Indonesia"
-        self.work = "Security Researcher & Developer"
-        self.interests = ["Cybersecurity", "GNU/Linux", "Open Source"]
-        self.gaming = ["PS2 Classics", "MLBB", "COC"]
-        self.life_motto = "Simple tools, massive impact"
-    
-    def get_daily_routine(self):
-        return ["Code", "Hack", "Learn", "Game", "Repeat"]
+```
+┌──────────────────────────────────────────────┐
+│  $ whoami                                     │
+│  wanz_xploit — security researcher / dev      │
+│                                                │
+│  $ locate --self                              │
+│  Bali, Indonesia 🇮🇩                          │
+│                                                │
+│  $ cat motto.txt                              │
+│  "Simple tools, massive impact."              │
+└──────────────────────────────────────────────┘
 ```
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=IP-LOC&theme=radical)](https://github.com/wanzxploit/IP-LOC)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=MATA&theme=radical)](https://github.com/wanzxploit/MATA)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=MATA-SERVER&theme=radical)](https://github.com/wanzxploit/MATA-SERVER)
-
-➡️ [View All Projects](https://github.com/wanzxploit?tab=repositories)
-
 </div>
 
-## 🛠️ Tech Arsenal
+<br>
 
-<div align="center">
+## `~$` neofetch
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Development Environment
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=white)
-![Acode](https://img.shields.io/badge/Acode-4F46E5?style=for-the-badge&logo=android&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wanzxploit&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wanzxploit&theme=radical"/>
-</div>
-
-## 🎯 Current Setup
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ```yaml
-Development:
-  Editor: 
-    mobile: ["Acode", "Quick Edit"]
-    terminal: ["Termux", "Linux Userland"]
-  
-System:
-  device: "Itel P55 NFC"
-  processor: "Unisoc T606"
-  os: "Android 13"
-  environment: ["Kali Linux", "Ubuntu"]
+OS:        Kali Linux / Debian / Termux
+Device:    Itel P55 NFC
+CPU:       Unisoc T606
+Editors:   Acode, Visual Code
+Shell:     bash / zsh
+Focus:     Cybersecurity, GNU/Linux,
+           Open Source Tooling
 ```
 
-## 🤝 Connect With Me
+</td>
+<td width="50%" valign="top">
+
+```yaml
+Currently: Building & breaking things
+Playing:   PS2 classics, MLBB, COC
+Learning:  Offensive security, LLM tooling
+Status:    ● online — probably compiling
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## `~$` ls -la ./stack
 
 <div align="center">
-  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wanzxploit)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wanz_xploit)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wanzxploit.my.id/)
-[![GPG Key](https://img.shields.io/badge/GPG_Key-333333?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white)](https://github.com/wanzxploit.gpg)
+
+<img src="https://skillicons.dev/icons?i=python,php,bash,html,css,js,linux,kali" />
 
 </div>
 
----
+<br>
+
+## `~$` cat projects.md
 
 <div align="center">
-  
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwanzxploit&title=Visitors&edge_flat=false)
 
-[![GitHub Followers](https://img.shields.io/github/followers/wanzxploit?style=social)](https://github.com/wanzxploit?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/wanzxploit?style=social)](https://github.com/wanzxploit)
+| Project | Description |
+|---|---|
+| **[IP-LOC](https://github.com/wanzxploit/IP-LOC)** | IP geolocation & lookup toolkit |
+| **[MATA](https://github.com/wanzxploit/MATA)** | Reconnaissance / OSINT tool |
+| **[MATA-SERVER](https://github.com/wanzxploit/MATA-SERVER)** | Server-side companion for MATA |
 
-**💝 Support me with follow**
+<sub>→ [browse the full repo list](https://github.com/wanzxploit?tab=repositories)</sub>
+
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+<br>
+
+## `~$` uptime --stats
+
+<div align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=wanzxploit&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=wanzxploit&theme=nightowl&hide_border=true&background=0d1117"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanzxploit&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
+</div>
+
+<br>
+
+## `~$` netstat --connections
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/-t.me%2Fwanzxploit-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/wanzxploit)
+[![Instagram](https://img.shields.io/badge/-@wanz__xploit-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/wanz_xploit)
+[![Website](https://img.shields.io/badge/-wanzxploit.my.id-181717?style=flat-square&logo=googlechrome&logoColor=2EF7A1)](https://wanzxploit.my.id/)
+[![GPG](https://img.shields.io/badge/-GPG_Key-333333?style=flat-square&logo=gnuprivacyguard&logoColor=white)](https://github.com/wanzxploit.gpg)
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=wanzxploit&style=flat-square&color=2EF7A1&label=terminal+views)
+[![Followers](https://img.shields.io/github/followers/wanzxploit?style=flat-square&color=2EF7A1&labelColor=0d1117)](https://github.com/wanzxploit?tab=followers)
+[![Stars](https://img.shields.io/github/stars/wanzxploit?style=flat-square&color=2EF7A1&labelColor=0d1117)](https://github.com/wanzxploit)
+
+<sub>`$ exit 0` — thanks for stopping by ⭐</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2EF7A1,100:0f0f0f&height=100&section=footer" width="100%"/>
+
+</div>
