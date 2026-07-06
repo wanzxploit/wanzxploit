@@ -105,19 +105,9 @@
 ## `~$` htop --stats
 
 <div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=wanzxploit&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true"/>
 <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=wanzxploit&theme=nightowl&hide_border=true&background=0d1117"/>
 </div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanzxploit&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=wanzxploit&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4"/>
-</div>
-
-<sub>⚠️ Kalau kartu di atas gagal muncul (broken image), itu karena rate-limit di server publik Vercel-nya — refresh beberapa saat lagi, atau self-host mengikuti panduan di masing-masing repo tool-nya.</sub>
 
 <br><br>
 
@@ -127,7 +117,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wanzxploit&theme=react-dark&bg_color=0d1117&color=2EF7A1&line=2EF7A1&point=ffffff&hide_border=true&area=true" width="100%"/>
 
-<sub>Grafik commit harian — ini juga full otomatis, cukup tempel URL, nggak perlu setup Action.</sub>
 
 </div>
 
