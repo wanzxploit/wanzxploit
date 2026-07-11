@@ -141,7 +141,7 @@
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/-t.me%2Fwanzxploit-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wanzxploit)
-[![Instagram](https://img.shields.io/badge/-@wanz__xploit-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wanz_xploit)
+[![Instagram](https://img.shields.io/badge/-@wanz__xploit-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rediawan26)
 [![Website](https://img.shields.io/badge/-devtools.biz.id-181717?style=for-the-badge&logo=googlechrome&logoColor=2EF7A1)](https://devtools.biz.id/)
 [![GPG](https://img.shields.io/badge/-GPG_Key-333333?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)](https://github.com/wanzxploit.gpg)
 
